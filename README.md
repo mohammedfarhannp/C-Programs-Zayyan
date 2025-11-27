@@ -1,7 +1,3 @@
-Sure! Here’s a clean, reusable **README.md** template for a GitHub repo that contains multiple C programs.
-You can copy/paste and customize as needed.
-
----
 
 ```markdown
 # 💻 C Programs Collection
