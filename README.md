@@ -30,14 +30,3 @@ If you find this repository helpful, please consider giving it a star ⭐ on Git
 
 Happy coding! 👨‍💻✨
 
-```
-
----
-
-If you want, I can also:
-- Customize it to your exact folder structure  
-- Add badges (build, license, stars, etc.)  
-- Create a more minimal or more advanced version  
-
-Just tell me!
-```
